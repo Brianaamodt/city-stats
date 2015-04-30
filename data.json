@@ -1,0 +1,7 @@
+{
+  "locations": [
+    {"location": "Tokyo", "area" : "2,188 km²", "population" : 13350000},
+    {"location": "New York", "area" : "1,214 km²", "population" : 8491079},
+    {"location": "Toronto", "area" : "630.21 km²", "population" : 2615060}
+  ]
+}
